@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2023-02-15T09:39:43.527Z</updated>
+  <updated>2023-02-15T09:47:09.040Z</updated>
   <id>http://example.com/</id>
   
   <generator uri="https://hexo.io/">Hexo</generator>
@@ -15,16 +15,24 @@
     <title>旅游1</title>
     <link href="http://example.com/2023/02/15/%E6%97%85%E6%B8%B81/"/>
     <id>http://example.com/2023/02/15/%E6%97%85%E6%B8%B81/</id>
-    <published>2023-02-15T09:11:15.000Z</published>
-    <updated>2023-02-15T09:39:43.527Z</updated>
+    <published>2023-02-15T09:01:02.000Z</published>
+    <updated>2023-02-15T09:47:09.040Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;旅游子文件&quot;&gt;&lt;a href=&quot;#旅游子文件&quot; class=&quot;headerlink&quot;</summary>
+        
+      
     
     
     
+    <category term="旅行日志" scheme="http://example.com/categories/%E6%97%85%E8%A1%8C%E6%97%A5%E5%BF%97/"/>
     
-    <category term="旅游日志" scheme="http://example.com/categories/%E6%97%85%E6%B8%B8%E6%97%A5%E5%BF%97/"/>
     
-    
-    <category term="旅游日志" scheme="http://example.com/tags/%E6%97%85%E6%B8%B8%E6%97%A5%E5%BF%97/"/>
+    <category term="旅行日志" scheme="http://example.com/tags/%E6%97%85%E8%A1%8C%E6%97%A5%E5%BF%97/"/>
     
   </entry>
   
