@@ -19,14 +19,14 @@
 ]]></content>
   </entry>
   <entry>
-    <title>旅游1</title>
-    <url>/2023/02/15/%E6%97%85%E6%B8%B81/</url>
-    <content><![CDATA[<h1 id="旅游子文件"><a href="#旅游子文件" class="headerlink" title="旅游子文件"></a>旅游子文件</h1>]]></content>
+    <title>photo1</title>
+    <url>/2023/02/15/photo1/</url>
+    <content><![CDATA[<h1 id="图片子文件"><a href="#图片子文件" class="headerlink" title="图片子文件"></a>图片子文件</h1>]]></content>
       <categories>
-        <category>旅行日志</category>
+        <category>摄影</category>
       </categories>
       <tags>
-        <tag>旅行日志</tag>
+        <tag>摄影</tag>
       </tags>
   </entry>
   <entry>
@@ -41,14 +41,14 @@
       </tags>
   </entry>
   <entry>
-    <title>photo1</title>
-    <url>/2023/02/15/photo1/</url>
-    <content><![CDATA[<h1 id="图片子文件"><a href="#图片子文件" class="headerlink" title="图片子文件"></a>图片子文件</h1>]]></content>
+    <title>旅游1</title>
+    <url>/2023/02/15/%E6%97%85%E6%B8%B81/</url>
+    <content><![CDATA[<h1 id="旅游子文件"><a href="#旅游子文件" class="headerlink" title="旅游子文件"></a>旅游子文件</h1>]]></content>
       <categories>
-        <category>摄影</category>
+        <category>旅行日志</category>
       </categories>
       <tags>
-        <tag>摄影</tag>
+        <tag>旅行日志</tag>
       </tags>
   </entry>
 </search>
