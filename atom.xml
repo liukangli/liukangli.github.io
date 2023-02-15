@@ -6,10 +6,23 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2023-02-15T02:32:45.257Z</updated>
+  <updated>2023-02-15T08:20:51.748Z</updated>
   <id>http://example.com/</id>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>2023新年</title>
+    <link href="http://example.com/2023/02/15/photos/2020%E6%96%B0%E5%B9%B4/"/>
+    <id>http://example.com/2023/02/15/photos/2020%E6%96%B0%E5%B9%B4/</id>
+    <published>2023-02-15T08:20:13.000Z</published>
+    <updated>2023-02-15T08:20:51.748Z</updated>
+    
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
