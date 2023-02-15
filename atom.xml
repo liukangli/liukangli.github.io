@@ -6,10 +6,25 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2023-02-15T09:03:57.650Z</updated>
+  <updated>2023-02-15T09:11:41.286Z</updated>
   <id>http://example.com/</id>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>旅游1</title>
+    <link href="http://example.com/2023/02/15/%E6%97%85%E6%B8%B81/"/>
+    <id>http://example.com/2023/02/15/%E6%97%85%E6%B8%B81/</id>
+    <published>2023-02-15T09:11:15.000Z</published>
+    <updated>2023-02-15T09:11:41.286Z</updated>
+    
+    
+    
+    
+    
+    <category term="travel" scheme="http://example.com/tags/travel/"/>
+    
+  </entry>
   
   <entry>
     <title>photo1</title>
